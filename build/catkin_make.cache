@@ -1,0 +1,2 @@
+crazyflie_ros/crazyflie:crazyflie_ros/crazyflie_controller:crazyflie_ros/crazyflie_cpp:crazyflie_ros/crazyflie_demo:crazyflie_ros/crazyflie_description:crazyflie_ros/crazyflie_driver:crazyflie_ros/crazyflie_tools:hrl-kdl/hrl_geom:hrl-kdl/hrl_kdl:hrl-kdl/pykdl_utils:optitrack
+-DCATKIN_DEVEL_PREFIX=/home/binx/Documents/Research/Crazy/devel -DCMAKE_INSTALL_PREFIX=/home/binx/Documents/Research/Crazy/install -G Unix Makefiles

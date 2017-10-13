@@ -1,0 +1,8 @@
+prefix=/home/binx/Documents/Research/Crazy/install
+
+Name: optitrack
+Description: Description of optitrack
+Version: 0.1.0
+Cflags: -I/home/binx/Documents/Research/Crazy/install/include
+Libs: -L/home/binx/Documents/Research/Crazy/install/lib 
+Requires: geometry_msgs message_runtime sensor_msgs std_msgs

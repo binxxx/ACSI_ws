@@ -1,0 +1,2 @@
+set(crazyflie_driver_MESSAGE_FILES "/home/binx/Documents/Research/Crazy/src/crazyflie_ros/crazyflie_driver/msg/LogBlock.msg;/home/binx/Documents/Research/Crazy/src/crazyflie_ros/crazyflie_driver/msg/GenericLogData.msg")
+set(crazyflie_driver_SERVICE_FILES "/home/binx/Documents/Research/Crazy/src/crazyflie_ros/crazyflie_driver/srv/AddCrazyflie.srv;/home/binx/Documents/Research/Crazy/src/crazyflie_ros/crazyflie_driver/srv/RemoveCrazyflie.srv;/home/binx/Documents/Research/Crazy/src/crazyflie_ros/crazyflie_driver/srv/UpdateParams.srv")

@@ -1,0 +1,8 @@
+prefix=/home/binx/Documents/Research/Crazy/devel
+
+Name: crazyflie_cpp
+Description: Description of crazyflie_cpp
+Version: 0.0.1
+Cflags: -I/home/binx/Documents/Research/Crazy/src/crazyflie_ros/crazyflie_cpp/include
+Libs: -L/home/binx/Documents/Research/Crazy/devel/lib -lcrazyflie_cpp
+Requires: 

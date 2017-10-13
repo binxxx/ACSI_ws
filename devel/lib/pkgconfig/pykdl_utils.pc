@@ -1,0 +1,8 @@
+prefix=/home/binx/Documents/Research/Crazy/devel
+
+Name: pykdl_utils
+Description: Description of pykdl_utils
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/binx/Documents/Research/Crazy/devel/lib 
+Requires: 
