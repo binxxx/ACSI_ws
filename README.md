@@ -22,9 +22,3 @@ Possible Issues
 1. One possible error would be 'Too many values to unpack- Exception': This can be rectified by verifying the 'unpack' function in optirx.py and making sure that 'msgtype' is returned along with the extracted data.
 or Replace 'optirx.py' from '/home/.local/lib/python2.7/' with the optirx.py downloaded from this repository'
 2. If "data" is not recieved by the Rigid_body_publisher.py. Copy the optirx.py file from the hybrid robotics lab repository to "/usr/local/lib/python2.7/dist-packages/optirx.py."
-
-
-Notes about Motive:
-
-1. Take screenshot in Motive
-2. Export csv file directly from Motive
