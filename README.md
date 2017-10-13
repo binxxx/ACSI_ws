@@ -4,10 +4,3 @@ DOC
 - Original repo could be found at GitHub, Whoning's homepage from ACTLAB in USC.
 - Modification is that the original one uses VICON as the Motion Capture System, while in HDR Lab, we use OptiTrack as the Motion Capture Systm, so mainly the modifications lie in that, with additional packages added to handle the communication with Motive, a software installed in the Lab's desktop computer.
 
-TODO
-=============
-- [x] set up joystick, control Crazyflie using joystick
-	- thrust is right, roll and pitch is still unknown, need to test in the lab.
-- [x] construct the control diagram with regard to teleopration
-
-
